@@ -178,6 +178,5 @@ Domain: Machine Learning
 Projects Completed: 3
 ⭐ Thank you for visiting my repository!
 
-**Machine Learning**
-[CodeAlpha_MachineLearning](https://github.com/Nirmalya003/CodeAlpha_MachineLearning?utm_source=chatgpt.com)
+
 
